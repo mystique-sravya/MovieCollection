@@ -1,0 +1,62 @@
+
+-- Total Number of Movies
+total_movies
+10
+
+-- Total Number of Actors
+total_actors
+10
+
+-- Movies by Genre
+genre        number_of_movies
+Drama        3
+Thriller     3
+Sci-Fi       2
+Crime        2
+
+-- Actors by Movie Participation
+name               movies_count
+Morgan Freeman     3
+Leonardo DiCaprio  3
+Al Pacino          2
+Robert De Niro     2
+
+-- Movies Directed by Christopher Nolan
+title                       release_year    rating
+Inception                   2010            8.8
+The Dark Knight             2008            9.0
+
+-- Actors in The Shawshank Redemption
+name
+Tim Robbins
+Morgan Freeman
+
+-- Average Movie Rating by Genre
+genre        average_rating
+Drama        8.5
+Thriller     8.6
+Sci-Fi       8.1
+Crime        8.2
+
+-- Top 3 Highest Rated Movies
+title                     rating
+The Dark Knight           9.0
+Inception                 8.8
+The Shawshank Redemption  8.7
+
+-- Actors with the Most Appearances
+name               appearances
+Morgan Freeman     3
+Leonardo DiCaprio  3
+Al Pacino          2
+
+-- Average Rating of Movies by Director
+director                average_rating
+Christopher Nolan       8.9
+Martin Scorsese         8.3
+Francis Ford Coppola    8.5
+
+-- List of Actors Who Have Worked with a Specific Director
+name
+Leonardo DiCaprio
+Christian Bale
